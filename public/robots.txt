@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mheax.com/sitemap.xml
